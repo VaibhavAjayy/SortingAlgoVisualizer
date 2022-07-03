@@ -1,4 +1,7 @@
 # SortingAlgoVisualizer
+
+<img width="563" alt="image" src="https://user-images.githubusercontent.com/88434684/177025086-d85f6e5d-a21f-4a0d-84b2-93562f799d67.png">
+
 # Tkinter
 
 Tkinter is a Python library for dealing with Graphical user interfaces (GUI).
