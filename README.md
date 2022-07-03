@@ -1,14 +1,17 @@
 # SortingAlgoVisualizer
 
-<img width="563" alt="image" src="https://user-images.githubusercontent.com/88434684/177025086-d85f6e5d-a21f-4a0d-84b2-93562f799d67.png">
+UNSORTED ARRAY
+<img width="563" alt="image" src="https://user-images.githubusercontent.com/88434684/177025301-382fc77b-0ff6-4a31-95e6-21576f6295df.png">
+
+SORTED ARRAY
+<img width="551" alt="image" src="https://user-images.githubusercontent.com/88434684/177025327-40616c8f-d915-4ed8-b27f-1128e749e46f.png">
+
 
 # Tkinter
 
 Tkinter is a Python library for dealing with Graphical user interfaces (GUI).
 
 ## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 pip install tk
@@ -17,16 +20,11 @@ pip install tk
 ## Usage
 
 ```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+import tkinter
+from tkinter import *
+from tkinter import ttk
+import random
+from bubbleSort import bubble_sort
 ```
 
 ## Contributing
